@@ -1,0 +1,19 @@
+{
+  "name": "telegram-short-drama-miniapp",
+  "version": "1.0.0",
+  "description": "Mini app do Telegram para catálogo de mini séries estilo vertical short drama.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
